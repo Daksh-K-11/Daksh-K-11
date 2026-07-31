@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Daksh-K-11/Daksh-K-11/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
