@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Daksh-K-11" alt="GitHub Contributions"/>
+  <img src="https://ghchart.rshah.org/Daksh-K-11" alt="GitHub Contributions"/>
 </p>
 
 ---
