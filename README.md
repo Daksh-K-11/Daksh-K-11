@@ -65,10 +65,6 @@
 ## 💻 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/daksh1105?theme=dark&font=Nunito&ext=contest"/>
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/daksh1105?theme=dark&ext=heatmap"/>
 </p>
 
