@@ -1,7 +1,7 @@
 # Hi 👋, I'm <Your Name>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+&+Software+Engineer;Full+Stack+Developer;FastAPI+Backend+Developer;AI+%26+Cloud+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=AI+%26+Software+Engineer;Full+Stack+Developer;FastAPI+Backend+Developer;Cloud+%26+AI+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -71,14 +71,6 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/daksh1105?theme=dark&ext=heatmap"/>
-</p>
-
----
-
-## 🎯 GeeksforGeeks
-
-<p align="center">
-<img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=khinvasaywyg" />
 </p>
 
 ---
