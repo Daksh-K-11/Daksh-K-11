@@ -55,9 +55,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daksh-K-11&theme=github-dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daksh-K-11/Daksh-K-11/output/github-contribution-grid-snake-dark.svg" />
