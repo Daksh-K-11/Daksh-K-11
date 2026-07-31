@@ -55,6 +55,10 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daksh-K-11&theme=github-dark&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/Daksh-K-11" alt="GitHub Contributions"/>
+</p>
+
 ---
 
 ## 💻 LeetCode
@@ -65,10 +69,6 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/daksh1105?theme=dark&ext=heatmap"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Daksh-K-11" alt="GitHub Contributions"/>
 </p>
 
 ---
